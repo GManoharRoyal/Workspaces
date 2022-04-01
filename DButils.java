@@ -1,4 +1,5 @@
 this a new java class
+<<<<<<< HEAD
 qwer
 asdf
 olkjhgfdfghjkl
@@ -8,4 +9,6 @@ sdrtyuiolkjhvcxc
 srtyuijhfgh
 sdrtyuikjhgfg
 ertyuiokjhgcghj
+=======
+>>>>>>> parent of c06e126 (DButils.java)
 
